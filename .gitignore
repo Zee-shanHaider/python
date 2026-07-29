@@ -1,0 +1,6 @@
+.claude
+/PROFILE_README.md
+__pycache__/
+*.pyc
+*.png
+*/data/
